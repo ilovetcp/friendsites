@@ -4,8 +4,8 @@ A basic JSON list of websites of a group of friends, TCP.
 # Current Members On list
 - Anjelo - https://www.anjelogo.com
 - Evan - https://www.evanoctave.dev
-- Patrick (Pending Website) - https://projectpatatoe.pt23.net
-- Caden (Pending Website) - https://www.cadensantiago.com
+- Patrick - https://projectpatatoe.pt23.net
+- Caden - https://www.cadensantiago.com
 
 # JSON Scheme
 The JSON file just has 2 properties required. Whether you add an additional property, is wholly dependent on the receiving client to use that data.
